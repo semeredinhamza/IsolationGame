@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{78C9907C-C22D-4F8D-B13A-49F213FF1631}") = "IsolationGame", "IsolationGame\IsolationGame.rsproj", "{43D7F062-9CC0-448B-9A34-F539FD702679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|default = Debug|default
+		Release|default = Release|default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D7F062-9CC0-448B-9A34-F539FD702679}.Debug|default.ActiveCfg = Debug|default
+		{43D7F062-9CC0-448B-9A34-F539FD702679}.Debug|default.Build.0 = Debug|default
+		{43D7F062-9CC0-448B-9A34-F539FD702679}.Release|default.ActiveCfg = Release|default
+		{43D7F062-9CC0-448B-9A34-F539FD702679}.Release|default.Build.0 = Release|default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Semeredin\documents\visual studio 2015\Projects\IsolationGame\IsolationGame\target\Debug\IsolationGame.exe
+C:\Users\Semeredin\documents\visual studio 2015\Projects\IsolationGame\IsolationGame\target\Debug\IsolationGame.pdb
+C:\Users\Semeredin\documents\visual studio 2015\Projects\IsolationGame\IsolationGame\obj\default\Debug\IsolationGame.exe
+C:\Users\Semeredin\documents\visual studio 2015\Projects\IsolationGame\IsolationGame\obj\default\Debug\IsolationGame.pdb
+C:\Users\Semeredin\Documents\Github\IsolationGame\IsolationGame\target\Debug\IsolationGame.exe
+C:\Users\Semeredin\Documents\Github\IsolationGame\IsolationGame\target\Debug\IsolationGame.pdb
+C:\Users\Semeredin\Documents\Github\IsolationGame\IsolationGame\obj\default\Debug\IsolationGame.rsprojResolveAssemblyReference.cache
+C:\Users\Semeredin\Documents\Github\IsolationGame\IsolationGame\obj\default\Debug\IsolationGame.exe
+C:\Users\Semeredin\Documents\Github\IsolationGame\IsolationGame\obj\default\Debug\IsolationGame.pdb
